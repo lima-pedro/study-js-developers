@@ -1,4 +1,4 @@
-// TIPO DE DECLARAÇÃO DE STRINGS
+// TIPO DE DECLARAÇÃO DE STRINGS - editado
 const nome = `Pedro`; // TEMPLATE LITERALS 
 let Nome = 'Fabrício';
 let sobrenome = 'Lima'; // aspas simples
