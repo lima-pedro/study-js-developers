@@ -25,7 +25,7 @@ const idades = [1, 2, 4];
 
 const aleatorio = ['A', true, 4];
 
-console.log(aleatorio);
+// console.log(aleatorio);
 
 const pessoa = { // notação de chave, valores separados por vírgula
     nome: 'Pedro', // CHAVE: VALOR
